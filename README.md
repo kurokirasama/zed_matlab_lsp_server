@@ -10,7 +10,7 @@ This project is a Zed language server extension for MATLAB, leveraging the offic
 
 ## Installation
 ### Install extension
-Install the extension from the Zed Extension tab.
+Install extension from the Zed Extension tab.
 
 ### Install server
 First, you need to install the official MATLAB Language Server.
