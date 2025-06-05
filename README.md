@@ -5,7 +5,7 @@ This project is a Zed language server extension for MATLAB, leveraging the offic
 ## Requirements
 
 *   [Zed Editor](https://zed.dev/)
-*   [MATLAB 2021b+](https://mathworks.com/products/matlab.html) or newer
+*   [MATLAB 2021b](https://mathworks.com/products/matlab.html) or newer
 *   [Node.js](https://nodejs.org/)
 
 ## Installation
