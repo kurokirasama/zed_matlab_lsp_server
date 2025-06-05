@@ -1,0 +1,15 @@
+id = "matlab"
+name = "MATLAB"
+version = "0.0.1"
+schema_version = 1
+authors = ["kurokirasama <kurokirasama@gmail.com>"]
+description = "Adds support for the MATLAB language using the official language server."
+repository = "https://github.com/kurokirasama/matlab-zed-lsp-server"
+
+[grammars.matlab]
+repository = "https://github.com/mstanciu552/tree-sitter-matlab"
+rev = "dd95e1fc1b5514aa3a882d5fb8ddbf4683e953f0"
+
+[language_servers.matlab-language-server]
+name = "MATLAB Language Server"
+languages = ["MATLAB"]
