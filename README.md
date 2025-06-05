@@ -1,4 +1,4 @@
-# zed_matlab_lsp_server
+# MATLAB Language Server Extension for Zed
 
 This project is a Zed language server extension for MATLAB, leveraging the official MATLAB Language Server provided by MathWorks.
 
